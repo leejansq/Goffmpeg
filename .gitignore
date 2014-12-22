@@ -1,0 +1,29 @@
+# Ignore Visual Studio temporary files
+*.ncb
+*.opt
+*.suo
+*.user
+*.sln.docstates
+*.exp
+*.aps
+*.plg
+*.scc
+*.vspscc
+*.vssscc
+*.ilk
+*.exe
+
+# ignore Windows image file caches
+Thumbs.db
+
+# ignore build directories
+[Rr]elease/
+[Dd]ebug/
+x64/
+build/
+[Oo]bj/
+[Bb]in/
+
+
+DebugLog/*.ppm
+*.yuv
